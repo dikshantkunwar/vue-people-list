@@ -1,4 +1,4 @@
-# hatchways-app
+# vue-people-list app 
 
 ## Project setup
 ```
